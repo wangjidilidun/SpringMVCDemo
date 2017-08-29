@@ -1,0 +1,4 @@
+springMVC实现静态文件访问
+js文件
+图片
+css文件
